@@ -1,6 +1,6 @@
 # VariousGameMakerProjects
 
-Lots of little big Game Maker projects I did back in high school.
+Various little & big Game Maker projects I did back then in high school.
 
 ### 3D
 A fake 3D with 2D sprites stacked on top of each other. When they rotate, they also shift horizontally, appearing to have a 3D depth.
