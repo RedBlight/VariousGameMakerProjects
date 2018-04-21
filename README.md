@@ -42,7 +42,7 @@ Shooting and gravity in 3D.
 The simplest game ever possible, your objective is to click on a stone to gain points till you run out of patience.
 
 ### Seyyah
-You are a traveller in Turkey with you caravan. I had planned to add many many more things, but in it's currents state, travelling around cities is possible, it uses gasoline to travel and it depends on the distance between cities, we have money and we can buy extra gasoline, travelling takes time and using castrol engine oil makes you travel faster etc. There is a nice inventory system, and save-load mechanism. I was actually started as a geography project.
+You are a traveller in Turkey with you caravan. I had planned to add many many more things, but in it's currents state, travelling around cities is possible, it uses gasoline to travel and it depends on the distance between cities, we have money and we can buy extra gasoline, travelling takes time and using castrol engine oil makes you travel faster etc. There is a nice inventory system, and save-load mechanism. It was actually started as a geography project.
 
 ### Taban Çevirici
 Base converter for integers.
